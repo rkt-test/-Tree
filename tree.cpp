@@ -232,7 +232,7 @@ private:
     }
 };
 
-int main_1()
+int main()
 {
     treeClass testTree;
     testTree.insertNode(19);
